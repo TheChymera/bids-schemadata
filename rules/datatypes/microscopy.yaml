@@ -23,6 +23,7 @@
   - .png
   - .tif
   - .json
+  - .h5
   entities:
     subject: required
     session: optional
@@ -41,5 +42,6 @@
   entities:
     subject: required
     session: optional
+    run: optional
     sample: required
     acquisition: optional
