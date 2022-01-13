@@ -3,6 +3,7 @@
 # Entity definitions appear in the `objects/entities.yaml` file.
 - subject
 - session
+- run
 - sample
 - task
 - acquisition
@@ -11,7 +12,6 @@
 - stain
 - reconstruction
 - direction
-- run
 - modality
 - echo
 - flip
