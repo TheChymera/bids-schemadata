@@ -265,7 +265,7 @@ SEM:
   name: Scanning electron microscopy
   description: |
     Scanning electron microscopy imaging data
-SPIM:
+spim:
   name: Selective plane illumination microscopy
   description: |
     Selective plane illumination microscopy imaging data
