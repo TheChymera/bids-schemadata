@@ -1,21 +1,21 @@
 # Microscopy
 - suffixes:
-  - TEM
-  - SEM
-  - uCT
-  - BF
-  - DF
-  - PC
-  - DIC
-  - FLUO
-  - CONF
-  - PLI
-  - CARS
-  - 2PE
-  - MPE
-  - SR
-  - NLO
-  - OCT
+  - tem
+  - sem
+  - uct
+  - bf
+  - df
+  - pc
+  - dic
+  - fluo
+  - conf
+  - pli
+  - cars
+  - 2pe
+  - mpe
+  - sr
+  - nlo
+  - oct
   - spim
   extensions:
   - .ome.tif
