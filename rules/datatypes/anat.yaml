@@ -105,7 +105,8 @@
     acquisition: optional
     ceagent: optional
     reconstruction: optional
-    flip: required
+    flip: optional
+    fa: optional
     part: optional
 
 # Multi-inv
@@ -141,6 +142,7 @@
     reconstruction: optional
     echo: optional
     flip: optional
+    fa: optional
     inversion: required
     part: optional
 
@@ -160,7 +162,8 @@
     ceagent: optional
     reconstruction: optional
     echo: optional
-    flip: required
+    flip: optional
+    fa: optional
     mtransfer: required
     part: optional
 

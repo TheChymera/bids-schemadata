@@ -88,6 +88,14 @@ echo:
     JSON file.
   type: string
   format: index
+fa:
+  name: Flip Angle
+  entity: fa
+  description: |
+    Apparently `DANDI:000026` uses `_fa-<index>` in some files instead of `_flip-<index>`.
+    Introducing this entity in our copy, hopefully only temporarily.
+  type: string
+  format: index
 flip:
   name: Flip Angle
   entity: flip
