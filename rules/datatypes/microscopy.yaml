@@ -17,6 +17,7 @@
   - nlo
   - oct
   - spim
+  - SPIM
   extensions:
   - .ome.tif
   - .ome.btf
