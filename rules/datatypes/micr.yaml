@@ -25,6 +25,7 @@
   - .tif
   - .json
   - .h5
+  - .ngff
   entities:
     subject: required
     session: optional
