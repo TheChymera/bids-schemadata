@@ -1595,6 +1595,7 @@ Magnification:
     Lens magnification (for example: `40`). If the file format is OME-TIFF,
     the value MUST be consistent with the `NominalMagnification` OME metadata field.
   type: number
+  exclusiveMinimum: 0
 Manual:
   name: Manual
   description: |
